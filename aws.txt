@@ -3,4 +3,4 @@ offering on-demand access to a vast range of IT resources like computing power,
 storage, and databases over the internet with a pay-as-you-go model, 
 allowing businesses to scale instantly and reduce costs compared to managing their own physical infrastructure. 
 It functions as a massive, global IT rental service, providing everything from basic servers to advanced AI and analytics, 
-managed by Amazon. S3
+managed by Amazon. SQS was the very first service created.
